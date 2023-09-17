@@ -1,0 +1,127 @@
+---
+object: card
+id: 7facb43f-275f-4f7f-a1b2-9c0e4b15addc
+oracle_id: dd840d84-bc4a-4420-b8ac-99093a5aa253
+multiverse_ids:
+- 370441
+mtgo_id: 49044
+mtgo_foil_id: 49045
+tcgplayer_id: 68416
+cardmarket_id: 262107
+name: Sporesower Thallid
+lang: en
+released_at: '2013-06-07'
+uri: https://api.scryfall.com/cards/7facb43f-275f-4f7f-a1b2-9c0e4b15addc
+scryfall_uri: https://scryfall.com/card/mma/162/sporesower-thallid?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/f/7facb43f-275f-4f7f-a1b2-9c0e4b15addc.jpg?1561967836
+  normal: https://cards.scryfall.io/normal/front/7/f/7facb43f-275f-4f7f-a1b2-9c0e4b15addc.jpg?1561967836
+  large: https://cards.scryfall.io/large/front/7/f/7facb43f-275f-4f7f-a1b2-9c0e4b15addc.jpg?1561967836
+  png: https://cards.scryfall.io/png/front/7/f/7facb43f-275f-4f7f-a1b2-9c0e4b15addc.png?1561967836
+  art_crop: https://cards.scryfall.io/art_crop/front/7/f/7facb43f-275f-4f7f-a1b2-9c0e4b15addc.jpg?1561967836
+  border_crop: https://cards.scryfall.io/border_crop/front/7/f/7facb43f-275f-4f7f-a1b2-9c0e4b15addc.jpg?1561967836
+mana_cost: "{2}{G}{G}"
+cmc: 4.0
+type_line: Creature — Fungus
+oracle_text: |-
+  At the beginning of your upkeep, put a spore counter on each Fungus you control.
+  Remove three spore counters from Sporesower Thallid: Create a 1/1 green Saproling creature token.
+power: '4'
+toughness: '4'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: 15854c49-14fd-4947-8444-c5ab614cb416
+  component: token
+  name: Saproling
+  type_line: Token Creature — Saproling
+  uri: https://api.scryfall.com/cards/15854c49-14fd-4947-8444-c5ab614cb416
+- object: related_card
+  id: 7facb43f-275f-4f7f-a1b2-9c0e4b15addc
+  component: combo_piece
+  name: Sporesower Thallid
+  type_line: Creature — Fungus
+  uri: https://api.scryfall.com/cards/7facb43f-275f-4f7f-a1b2-9c0e4b15addc
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 0b7020f2-336d-4706-9ce6-f6710b9ebd5c
+set: mma
+set_name: Modern Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/0b7020f2-336d-4706-9ce6-f6710b9ebd5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7facb43f-275f-4f7f-a1b2-9c0e4b15addc/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Add840d84-bc4a-4420-b8ac-99093a5aa253&unique=prints
+collector_number: '162'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ron Spencer
+artist_ids:
+- dab52c11-0564-4207-a4a1-c1735c946a65
+illustration_id: d4800b8e-c9b7-4482-8ba1-58ecf9e1b677
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 6445
+penny_rank: 8394
+prices:
+  usd: '0.25'
+  usd_foil: '0.67'
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: '0.15'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370441
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sporesower+Thallid&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sporesower+Thallid&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sporesower+Thallid
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/68416?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sporesower+Thallid&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/49044?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

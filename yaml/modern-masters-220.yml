@@ -1,0 +1,113 @@
+---
+object: card
+id: 4b0e0482-d1e6-420f-9a8a-a675345fc09b
+oracle_id: 40d45c02-6416-4e19-8fe3-0ddadf5ba627
+multiverse_ids:
+- 370407
+mtgo_id: 48882
+mtgo_foil_id: 48883
+tcgplayer_id: 68266
+cardmarket_id: 261941
+name: Blinkmoth Nexus
+lang: en
+released_at: '2013-06-07'
+uri: https://api.scryfall.com/cards/4b0e0482-d1e6-420f-9a8a-a675345fc09b
+scryfall_uri: https://scryfall.com/card/mma/220/blinkmoth-nexus?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/b/4b0e0482-d1e6-420f-9a8a-a675345fc09b.jpg?1561966892
+  normal: https://cards.scryfall.io/normal/front/4/b/4b0e0482-d1e6-420f-9a8a-a675345fc09b.jpg?1561966892
+  large: https://cards.scryfall.io/large/front/4/b/4b0e0482-d1e6-420f-9a8a-a675345fc09b.jpg?1561966892
+  png: https://cards.scryfall.io/png/front/4/b/4b0e0482-d1e6-420f-9a8a-a675345fc09b.png?1561966892
+  art_crop: https://cards.scryfall.io/art_crop/front/4/b/4b0e0482-d1e6-420f-9a8a-a675345fc09b.jpg?1561966892
+  border_crop: https://cards.scryfall.io/border_crop/front/4/b/4b0e0482-d1e6-420f-9a8a-a675345fc09b.jpg?1561966892
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  {T}: Add {C}.
+  {1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land.
+  {1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 0b7020f2-336d-4706-9ce6-f6710b9ebd5c
+set: mma
+set_name: Modern Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/0b7020f2-336d-4706-9ce6-f6710b9ebd5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4b0e0482-d1e6-420f-9a8a-a675345fc09b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A40d45c02-6416-4e19-8fe3-0ddadf5ba627&unique=prints
+collector_number: '220'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Sam Burley
+artist_ids:
+- f89f4b78-cefb-41f7-b7cb-4f4d28de0c4f
+illustration_id: 79beccd2-52b5-4f48-90c2-85c081faf741
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2176
+penny_rank: 1804
+prices:
+  usd: '2.49'
+  usd_foil: '4.67'
+  usd_etched: 
+  eur: '2.95'
+  eur_foil: '2.38'
+  tix: '0.07'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370407
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Blinkmoth+Nexus&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Blinkmoth+Nexus&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Blinkmoth+Nexus
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/68266?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blinkmoth+Nexus&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/48882?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

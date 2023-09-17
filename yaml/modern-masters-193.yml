@@ -1,0 +1,130 @@
+---
+object: card
+id: 48ab4b6f-480c-40ac-a8cc-335a22b5acb9
+oracle_id: 6052822d-47a2-4d69-a32d-40cdd600d7a9
+multiverse_ids:
+- 370429
+mtgo_id: 48764
+mtgo_foil_id: 48765
+tcgplayer_id: 68438
+cardmarket_id: 262122
+name: Oona, Queen of the Fae
+lang: en
+released_at: '2013-06-07'
+uri: https://api.scryfall.com/cards/48ab4b6f-480c-40ac-a8cc-335a22b5acb9
+scryfall_uri: https://scryfall.com/card/mma/193/oona-queen-of-the-fae?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/8/48ab4b6f-480c-40ac-a8cc-335a22b5acb9.jpg?1561966890
+  normal: https://cards.scryfall.io/normal/front/4/8/48ab4b6f-480c-40ac-a8cc-335a22b5acb9.jpg?1561966890
+  large: https://cards.scryfall.io/large/front/4/8/48ab4b6f-480c-40ac-a8cc-335a22b5acb9.jpg?1561966890
+  png: https://cards.scryfall.io/png/front/4/8/48ab4b6f-480c-40ac-a8cc-335a22b5acb9.png?1561966890
+  art_crop: https://cards.scryfall.io/art_crop/front/4/8/48ab4b6f-480c-40ac-a8cc-335a22b5acb9.jpg?1561966890
+  border_crop: https://cards.scryfall.io/border_crop/front/4/8/48ab4b6f-480c-40ac-a8cc-335a22b5acb9.jpg?1561966890
+mana_cost: "{3}{U/B}{U/B}{U/B}"
+cmc: 6.0
+type_line: Legendary Creature — Faerie Wizard
+oracle_text: |-
+  Flying
+  {X}{U/B}: Choose a color. Target opponent exiles the top X cards of their library. For each card of the chosen color exiled this way, create a 1/1 blue and black Faerie Rogue creature token with flying.
+power: '5'
+toughness: '5'
+colors:
+- B
+- U
+color_identity:
+- B
+- U
+keywords:
+- Flying
+all_parts:
+- object: related_card
+  id: 48ab4b6f-480c-40ac-a8cc-335a22b5acb9
+  component: combo_piece
+  name: Oona, Queen of the Fae
+  type_line: Legendary Creature — Faerie Wizard
+  uri: https://api.scryfall.com/cards/48ab4b6f-480c-40ac-a8cc-335a22b5acb9
+- object: related_card
+  id: e1eb3b8a-f9d3-4ce1-b171-ba7b0c3f4830
+  component: token
+  name: Faerie Rogue
+  type_line: Token Creature — Faerie Rogue
+  uri: https://api.scryfall.com/cards/e1eb3b8a-f9d3-4ce1-b171-ba7b0c3f4830
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 0b7020f2-336d-4706-9ce6-f6710b9ebd5c
+set: mma
+set_name: Modern Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/0b7020f2-336d-4706-9ce6-f6710b9ebd5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/48ab4b6f-480c-40ac-a8cc-335a22b5acb9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6052822d-47a2-4d69-a32d-40cdd600d7a9&unique=prints
+collector_number: '193'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Adam Rex
+artist_ids:
+- 445bd2fb-4a70-4599-87a4-83cf5979fc56
+illustration_id: b4309634-54fb-4d79-9ffa-e26508bf6633
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3701
+penny_rank: 2147
+prices:
+  usd: '0.73'
+  usd_foil: '3.96'
+  usd_etched: 
+  eur: '1.40'
+  eur_foil: '9.99'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370429
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Oona%2C+Queen+of+the+Fae&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Oona%2C+Queen+of+the+Fae&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Oona%2C+Queen+of+the+Fae
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/68438?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Oona%2C+Queen+of+the+Fae&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/48764?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,115 @@
+---
+object: card
+id: 3993cdb5-132a-466e-aa2c-e8ab402aef2d
+oracle_id: 521b1598-58c6-47a0-a7b3-021d70bf2b05
+multiverse_ids:
+- 370542
+mtgo_id: 48968
+mtgo_foil_id: 48969
+tcgplayer_id: 68322
+cardmarket_id: 262016
+name: Keiga, the Tide Star
+lang: en
+released_at: '2013-06-07'
+uri: https://api.scryfall.com/cards/3993cdb5-132a-466e-aa2c-e8ab402aef2d
+scryfall_uri: https://scryfall.com/card/mma/48/keiga-the-tide-star?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/9/3993cdb5-132a-466e-aa2c-e8ab402aef2d.jpg?1561966878
+  normal: https://cards.scryfall.io/normal/front/3/9/3993cdb5-132a-466e-aa2c-e8ab402aef2d.jpg?1561966878
+  large: https://cards.scryfall.io/large/front/3/9/3993cdb5-132a-466e-aa2c-e8ab402aef2d.jpg?1561966878
+  png: https://cards.scryfall.io/png/front/3/9/3993cdb5-132a-466e-aa2c-e8ab402aef2d.png?1561966878
+  art_crop: https://cards.scryfall.io/art_crop/front/3/9/3993cdb5-132a-466e-aa2c-e8ab402aef2d.jpg?1561966878
+  border_crop: https://cards.scryfall.io/border_crop/front/3/9/3993cdb5-132a-466e-aa2c-e8ab402aef2d.jpg?1561966878
+mana_cost: "{5}{U}"
+cmc: 6.0
+type_line: Legendary Creature — Dragon Spirit
+oracle_text: |-
+  Flying
+  When Keiga, the Tide Star dies, gain control of target creature.
+power: '5'
+toughness: '5'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 0b7020f2-336d-4706-9ce6-f6710b9ebd5c
+set: mma
+set_name: Modern Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/0b7020f2-336d-4706-9ce6-f6710b9ebd5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3993cdb5-132a-466e-aa2c-e8ab402aef2d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A521b1598-58c6-47a0-a7b3-021d70bf2b05&unique=prints
+collector_number: '48'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ittoku
+artist_ids:
+- d3a47c28-84e9-4b53-a236-5066ae1bb62f
+illustration_id: 037bb686-e060-4218-a692-5dda3748afc3
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3198
+penny_rank: 3589
+prices:
+  usd: '1.52'
+  usd_foil: '16.66'
+  usd_etched: 
+  eur: '4.95'
+  eur_foil: '11.24'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370542
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Keiga%2C+the+Tide+Star&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Keiga%2C+the+Tide+Star&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Keiga%2C+the+Tide+Star
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/68322?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Keiga%2C+the+Tide+Star&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/48968?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

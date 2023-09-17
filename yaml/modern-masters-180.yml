@@ -1,0 +1,115 @@
+---
+object: card
+id: 58beea98-bafd-46bf-8aec-d98893019374
+oracle_id: 95ce305f-34bc-4d6d-b7ba-ffd4b2a25336
+multiverse_ids:
+- 370521
+mtgo_id: 48842
+mtgo_foil_id: 48843
+tcgplayer_id: 68274
+cardmarket_id: 261951
+name: Maelstrom Pulse
+lang: en
+released_at: '2013-06-07'
+uri: https://api.scryfall.com/cards/58beea98-bafd-46bf-8aec-d98893019374
+scryfall_uri: https://scryfall.com/card/mma/180/maelstrom-pulse?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/8/58beea98-bafd-46bf-8aec-d98893019374.jpg?1561967352
+  normal: https://cards.scryfall.io/normal/front/5/8/58beea98-bafd-46bf-8aec-d98893019374.jpg?1561967352
+  large: https://cards.scryfall.io/large/front/5/8/58beea98-bafd-46bf-8aec-d98893019374.jpg?1561967352
+  png: https://cards.scryfall.io/png/front/5/8/58beea98-bafd-46bf-8aec-d98893019374.png?1561967352
+  art_crop: https://cards.scryfall.io/art_crop/front/5/8/58beea98-bafd-46bf-8aec-d98893019374.jpg?1561967352
+  border_crop: https://cards.scryfall.io/border_crop/front/5/8/58beea98-bafd-46bf-8aec-d98893019374.jpg?1561967352
+mana_cost: "{1}{B}{G}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Destroy target nonland permanent and all other permanents with the same
+  name as that permanent.
+colors:
+- B
+- G
+color_identity:
+- B
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 0b7020f2-336d-4706-9ce6-f6710b9ebd5c
+set: mma
+set_name: Modern Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/0b7020f2-336d-4706-9ce6-f6710b9ebd5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/58beea98-bafd-46bf-8aec-d98893019374/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95ce305f-34bc-4d6d-b7ba-ffd4b2a25336&unique=prints
+collector_number: '180'
+digital: false
+rarity: rare
+flavor_text: During the collision of the shards, entire ways of life disappeared without
+  a trace.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: John Avon
+artist_ids:
+- 798f3932-30e0-4420-aa3f-db4d613f89ca
+illustration_id: 346228e7-2845-4128-9234-2f0c829b44b5
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3987
+penny_rank: 532
+prices:
+  usd: '1.23'
+  usd_foil: '1.96'
+  usd_etched: 
+  eur: '1.50'
+  eur_foil: '2.00'
+  tix: '0.06'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370521
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Maelstrom+Pulse&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Maelstrom+Pulse&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Maelstrom+Pulse
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/68274?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Maelstrom+Pulse&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/48842?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

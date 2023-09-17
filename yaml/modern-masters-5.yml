@@ -1,0 +1,115 @@
+---
+object: card
+id: e6bc3347-6d07-4609-ae7b-4f4596a065b7
+oracle_id: db2f3a06-f75e-4689-b147-9820aebb30e2
+multiverse_ids:
+- 370370
+mtgo_id: 48942
+mtgo_foil_id: 48943
+tcgplayer_id: 68290
+cardmarket_id: 261986
+name: Auriok Salvagers
+lang: en
+released_at: '2013-06-07'
+uri: https://api.scryfall.com/cards/e6bc3347-6d07-4609-ae7b-4f4596a065b7
+scryfall_uri: https://scryfall.com/card/mma/5/auriok-salvagers?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/6/e6bc3347-6d07-4609-ae7b-4f4596a065b7.jpg?1561969035
+  normal: https://cards.scryfall.io/normal/front/e/6/e6bc3347-6d07-4609-ae7b-4f4596a065b7.jpg?1561969035
+  large: https://cards.scryfall.io/large/front/e/6/e6bc3347-6d07-4609-ae7b-4f4596a065b7.jpg?1561969035
+  png: https://cards.scryfall.io/png/front/e/6/e6bc3347-6d07-4609-ae7b-4f4596a065b7.png?1561969035
+  art_crop: https://cards.scryfall.io/art_crop/front/e/6/e6bc3347-6d07-4609-ae7b-4f4596a065b7.jpg?1561969035
+  border_crop: https://cards.scryfall.io/border_crop/front/e/6/e6bc3347-6d07-4609-ae7b-4f4596a065b7.jpg?1561969035
+mana_cost: "{3}{W}"
+cmc: 4.0
+type_line: Creature — Human Soldier
+oracle_text: "{1}{W}: Return target artifact card with mana value 1 or less from your
+  graveyard to your hand."
+power: '2'
+toughness: '4'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 0b7020f2-336d-4706-9ce6-f6710b9ebd5c
+set: mma
+set_name: Modern Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/0b7020f2-336d-4706-9ce6-f6710b9ebd5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e6bc3347-6d07-4609-ae7b-4f4596a065b7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adb2f3a06-f75e-4689-b147-9820aebb30e2&unique=prints
+collector_number: '5'
+digital: false
+rarity: rare
+flavor_text: '"Memnarch or the vedalken salvage most of the large machines, leaving
+  us only scraps. Scraps are enough."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Randy Gallegos
+artist_ids:
+- a5048cc7-438a-4378-98e4-da99b78e1db0
+illustration_id: e4fcb8c6-b3d6-41ac-af78-b8974994b3be
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7103
+penny_rank: 9753
+prices:
+  usd: '0.37'
+  usd_foil: '4.22'
+  usd_etched: 
+  eur: '0.19'
+  eur_foil: '2.99'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370370
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Auriok+Salvagers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Auriok+Salvagers&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Auriok+Salvagers
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/68290?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Auriok+Salvagers&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/48942?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

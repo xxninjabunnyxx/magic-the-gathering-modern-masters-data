@@ -1,0 +1,115 @@
+---
+object: card
+id: cc997628-22f3-4e6f-998f-e049fac8192c
+oracle_id: e6991ab8-36f7-40c4-ad37-06e847d92664
+multiverse_ids:
+- 370467
+mtgo_id: 48686
+mtgo_foil_id: 48687
+tcgplayer_id: 68395
+cardmarket_id: 262087
+name: Tar Pitcher
+lang: en
+released_at: '2013-06-07'
+uri: https://api.scryfall.com/cards/cc997628-22f3-4e6f-998f-e049fac8192c
+scryfall_uri: https://scryfall.com/card/mma/134/tar-pitcher?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/c/cc997628-22f3-4e6f-998f-e049fac8192c.jpg?1561968559
+  normal: https://cards.scryfall.io/normal/front/c/c/cc997628-22f3-4e6f-998f-e049fac8192c.jpg?1561968559
+  large: https://cards.scryfall.io/large/front/c/c/cc997628-22f3-4e6f-998f-e049fac8192c.jpg?1561968559
+  png: https://cards.scryfall.io/png/front/c/c/cc997628-22f3-4e6f-998f-e049fac8192c.png?1561968559
+  art_crop: https://cards.scryfall.io/art_crop/front/c/c/cc997628-22f3-4e6f-998f-e049fac8192c.jpg?1561968559
+  border_crop: https://cards.scryfall.io/border_crop/front/c/c/cc997628-22f3-4e6f-998f-e049fac8192c.jpg?1561968559
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Creature — Goblin Shaman
+oracle_text: "{T}, Sacrifice a Goblin: Tar Pitcher deals 2 damage to any target."
+power: '2'
+toughness: '2'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 0b7020f2-336d-4706-9ce6-f6710b9ebd5c
+set: mma
+set_name: Modern Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/0b7020f2-336d-4706-9ce6-f6710b9ebd5c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/cc997628-22f3-4e6f-998f-e049fac8192c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae6991ab8-36f7-40c4-ad37-06e847d92664&unique=prints
+collector_number: '134'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  "Auntie Grub had caught a goat, a bleating doe that still squirmed in her arms. At the same time, her warren decided to share with her a sensory greeting of hot tar . . . ."
+  —A tale of Auntie Grub
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Omar Rayyan
+artist_ids:
+- 256b61a2-b9af-4ff5-b485-47a61818f818
+illustration_id: 2625f3a4-e2a6-4e6a-96d2-bf6980d5bca6
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18966
+penny_rank: 13402
+prices:
+  usd: '0.08'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.22'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370467
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Tar+Pitcher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Tar+Pitcher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Tar+Pitcher
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/68395?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tar+Pitcher&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/48686?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
